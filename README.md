@@ -84,19 +84,7 @@ Your clipboard history is stored locally on your device.
 
 ---
 
-## 🛠️ Build from Source
 
-Developers can build CLYPORYN locally using Node.js and npm.
-
-```bash
-cd CLYPORYN/windows-app
-npm install
-npm run dist:win
-```
-
-The Windows installer will be generated in the `dist` directory after a successful build.
-
----
 
 ## 🐛 Bugs & Feedback
 
