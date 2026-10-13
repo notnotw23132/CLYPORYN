@@ -37,7 +37,7 @@ Stop losing copied content. CLYPORYN automatically saves your clipboard history 
 **CLYPORYN is currently available for Windows 10 and 11 (64-bit).**
 
 1. Visit the [latest release](https://github.com/notnotw23132/CLYPORYN/releases/latest).
-2. Download `CLYPORYN-Setup-Custom-1.0.0.exe` (or the latest available version).
+2. Download `CLYPORYN-Setup1.0.0.exe` (or the latest available version).
 3. Launch the installer.
 4. Select your language and installation preferences.
 5. Start using CLYPORYN!
